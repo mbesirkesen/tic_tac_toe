@@ -83,7 +83,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 ## 👤 Yazar
 
-**Muhammed Beşir Keşen** tarafından geliştirilmiştir.
+**Muhammed Beşir Kesen** tarafından geliştirilmiştir.
 
 ## 🤝 Katkıda Bulunma
 
